@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://zetfx.tk" resolutions="1x" timestamp="1500235342347">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="weirdcompany.ml" resolutions="1x" timestamp="1500236771354">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="222866501" ref="index"/>
+    <file name="index.css" crc="3994394916" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,9 +12,9 @@
     <file name="require.js" crc="3951022091" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="z0wact.jpg" crc="3821063459" seo="true" ref="index">
+    <file name="logo.jpg" crc="474870073" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="281265627" seo="true" mt="1500235334709" redirect="true"/>
+  <file name="index.html" crc="4259161591" seo="true" mt="1500236737809" redirect="true"/>
 </manifest>
